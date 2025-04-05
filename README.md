@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Konstantin
 #### I am a student and a beginner programmer
-![I am a student and a beginner programmer](http://tenka.seiha.org/images2016/candy3/50.jpg)
+![I am a student and a beginner programmer](https://sun9-69.userapi.com/impg/99OT4eTUlMNBf5Y5aE9lyGBUqBJAtqGsqLTBYA/tAd6XOWaNUs.jpg?size=1844x718&quality=95&sign=471282ec54a73d7fc50a9ef7bdf31138&type=album)
 
 I write various simple projects for myself. I try to master various programming languages. In the future, I want to work with websites and servers, because it brings me pleasure.
 
